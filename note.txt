@@ -1,0 +1,34 @@
+The Admin user is the person who looks after all network management.
+
+An admin user has the ability to:
+
+- Manage the access and level of responsibility of all users on all sites on your network
+- Manage network and site features including access to plugins, themes and privacy settings
+- Create new users and new sites
+- Reset passwords and change users’ profile details
+- Access all the logs via admin panel
+
+
+image holder https://via.placeholder.com/
+
+fait :
+- vider la template 
+- faire le menu user : ajouter user , modifier user gerer acces user 
+
+
+en cours :
+- Access all the logs via admin panel
+
+
+a faire :
+- Manage the access and level of responsibility of all users on all sites on your network
+- Manage network and site features including access to plugins, themes and privacy settings
+- Create new users and new sites
+- Reset passwords and change users’ profile details
+
+
+Oui, tu dois importer la base de données  *.sql qui est sur Trello.  ( il ya deux tableaux user et logs) 
+Tu utilises directement phpMyAdmin qui est sur le site infinityFree
+On suppose que la page login et inscrit sont déjà faits
+Tu commences à développer un Dashboard pour l'admin qui sert à afficher, ajouter, supprimer et modifier un utilisateur… 
+et la gestion des adresses ip avec le tableaux log_table (afficher, ajouter, supprimer et modifier un ligne) 
